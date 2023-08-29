@@ -91,3 +91,12 @@ yarn expo start
 ```sh
 yarn test
 ```
+
+---
+
+### Testing Credentials
+
+```yaml
+username: admin
+password: admin
+```
