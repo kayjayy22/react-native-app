@@ -64,12 +64,30 @@ Time to don your chef's hat and get started:
 
 1. Clone this repository:
 
-```
-	git clone https://github.com/kayjayy22/react-native-login.git
+```sh
+git clone https://github.com/kayjayy22/react-native-login.git
 ```
 
 2. Hop into the project directory:
 
+```sh
+cd react-native-login
 ```
-	cd react-native-login
+
+3. Sprinkle in some magic (install dependencies):
+
+```sh
+yarn
+```
+
+4. Fire up the development stove:
+
+```sh
+yarn expo start
+```
+
+5. Bonus: Testing
+
+```sh
+yarn test
 ```
